@@ -7,12 +7,12 @@ jobs:
      runs-on: ubuntu-latest
 
      steps:
-      - name: Print Hello Messege
+      - name: Print Hello Messege from test
         run: echo "Hello from test"
 
   my_deploy:
      runs-on: ubuntu-latest
 
      steps:
-      - name: Print Hello Messege
+      - name: Print Hello Messege from deploy
         run: echo "Hello from deploy"
