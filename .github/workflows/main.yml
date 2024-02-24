@@ -1,3 +1,5 @@
+name: My_test
+
 on: 
  push:
    branches: 
