@@ -8,11 +8,11 @@ jobs:
 
      steps:
       - name: Print Hello Messege
-       run: echo "Hello from test"
+        run: echo "Hello from test"
 
   my_deploy:
      runs-on: ubuntu-latest
 
      steps:
       - name: Print Hello Messege
-      run: echo "Hello from deploy"
+        run: echo "Hello from deploy"
