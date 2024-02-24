@@ -6,7 +6,7 @@ name: My_test
 on: 
  push:
    branches: 
-     [ -master ]
+     [master]
 jobs:
   my_testing:
      runs-on: ubuntu-latest
