@@ -1,2 +1,2 @@
 test
-test nimber 2
+test number 2
